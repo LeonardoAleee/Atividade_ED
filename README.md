@@ -6,7 +6,7 @@ Inicialmente, o programa recebe a massa e a altura inseridas pelo usuário. Assi
 
 ### Por exemplo:
 
-Se o usuário inserir uma massa de 100 kg e uma altura de 1,80 metros, o IMC retornado é igual a 30.864201 e a classificação recebida é de obesidade.
+Se o usuário inserir uma massa de 100 kg e uma altura de 1,80 metro, o IMC retornado é igual a 30.864201 e a classificação recebida é de obesidade.
 
 ## Questão 2
 
