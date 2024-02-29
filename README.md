@@ -14,4 +14,4 @@ Nessa questão, a entrada do usuário é um ano. Após receber o ano, o código 
 
 ### Por exemplo:
 
-Se o usuário inserir o ano 2018, retorna-se "Ano comum!".
+Se o usuário inserir o ano 2018, o código retorna "Ano comum!".
