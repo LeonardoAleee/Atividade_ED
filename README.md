@@ -2,7 +2,7 @@
 
 ## Questão 1
 
-Inicialmente, o programa recebe a massa e a altura digitada pelo usuário. Assim, calcula-se o IMC referente às entradas do usuário. Por fim, retorna-se o IMC supracitado e a sua classificação.
+Inicialmente, o programa recebe a massa e a altura inseridas pelo usuário. Assim, calcula-se o IMC referente às entradas do usuário. Por fim, retorna-se o IMC supracitado e a sua classificação.
 
 ### Por exemplo:
 
