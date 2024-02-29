@@ -1,4 +1,4 @@
-# Atividade de Estrutura de Dados
+# Atividade de Estruturas de Dados
 
 ## Questão 1
 
