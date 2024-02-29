@@ -37,7 +37,7 @@ int main()
         printf("Obesidade severa.\n");
     }
     else
-        printf("Obesidade mórbida.\n");
+        printf("Obesidade morbida.\n");
 
     return 0;
 }
