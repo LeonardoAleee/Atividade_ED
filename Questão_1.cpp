@@ -2,7 +2,9 @@
 
 int main()
 {
-    float massa, altura, IMC;
+    float massa;
+    float altura;
+    float IMC;
     
     printf("Digite a sua massa (em kg): ");
     scanf("%f", &massa);
